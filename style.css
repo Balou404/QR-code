@@ -15,6 +15,9 @@
     text-decoration: underline;
 }
 
+#image_frise{
+  width : 100%
+}
 
 body {/* barre du haut bien mise*/
   margin: 0;
