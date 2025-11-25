@@ -1,24 +1,3 @@
-.nuit {
-  color: white;
-  background-color: #555;
-  border-radius: 10%;
-  text-size-adjust: 10%;
-  transform: translate(4500%, 125%);
-  float: left;
-  padding: 5px;
-  text-align: center;
-}
-.jour {
-  color: white;
-  background-color: #555;
-  border-radius: 10%;
-  text-size-adjust: 10%;
-  transform: translate(4000%, 125%);
-  float: left;
-  padding: 5px;
-  text-align: center;
-}
-
 #rectangle{
     width  : 100%;
     height : 112px;
