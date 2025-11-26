@@ -7,11 +7,13 @@
 }
 
 .titre{
-    line-height : 200%;
-    font-size: 300%; 
+    line-height : 75%;
+    font-size: 150%; 
     color :rgb(3, 30, 102); 
     text-align: center;
     text-decoration: underline;
+    padding: 0.89%;
+    
 }
 
 #image_frise{
