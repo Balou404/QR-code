@@ -7,9 +7,8 @@
 }
 
 .titre{
-    line-height : 100px;
-    font-weight: 50px; 
-    font-size: 50px; 
+    line-height : 200%;
+    font-size: 300%; 
     color :rgb(3, 30, 102); 
     text-align: center;
     text-decoration: underline;
